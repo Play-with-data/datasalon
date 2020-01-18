@@ -27,3 +27,6 @@
 * 어떤 무선청소기가 인기가 좋을까?
 	* 다나와(가격비교 사이트)를 통한 무선청소기 브랜드별 제품 비교 분석
 
+
+<img src = 'https://wikibook.co.kr/images/images/playwithdata_Detail.jpg'>
+

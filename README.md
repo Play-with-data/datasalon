@@ -30,3 +30,11 @@
 
 <img src = 'https://wikibook.co.kr/images/images/playwithdata_Detail.jpg'>
 
+
+### 수정사항
+
+- 네이버 지도 API 서비스 종료에 따라, 카카오 검색 API 활용으로 변경하였습니다. 
+
+- 수정부분: 4-3 인스타 지도 시각화 부분
+
+- 카카오 API 활용 안내 가이드: http://bit.ly/pwd_kakaoAPI_guide

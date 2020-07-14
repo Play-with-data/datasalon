@@ -70,4 +70,4 @@
 
 ### PlaywithData 세미나/워크샵 안내
 
-- 워크샵/세미나 안내 페이지 : `https://bit.ly/pwd_announce`
+- 워크샵/세미나 안내 페이지 : https://bit.ly/pwd_announce

@@ -3,6 +3,7 @@
 
 <img src = 'https://wikibook.co.kr/images/cover/s/9791158392284.jpg'>
 ‘데이터 분석은 좋은 질문에서 시작합니다’
+
 ### 책 보러 가기: https://wikibook.co.kr/pwdrev/
 
 이 책에서는 누구나 궁금했던 그 질문에 대해 데이터로 답해 봅니다. 

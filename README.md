@@ -3,7 +3,7 @@
 
 <img src = 'https://wikibook.co.kr/images/cover/s/9791158392284.jpg'>
 ‘데이터 분석은 좋은 질문에서 시작합니다’
-
+### 책 보러 가기: https://wikibook.co.kr/pwdrev/
 
 이 책에서는 누구나 궁금했던 그 질문에 대해 데이터로 답해 봅니다. 
 
@@ -77,11 +77,7 @@
     
 
 
-<img src = 'https://wikibook.co.kr/images/images/playwithdata_Detail.jpg'>
-
-
-
-
-### PlaywithData 세미나/워크샵 안내
+### PlaywithData 안내 ### 
 
 - 워크샵/세미나 안내 페이지 : https://bit.ly/pwd_announce
+- 페이스북 그룹 : http://bit.ly/forPlaywithData

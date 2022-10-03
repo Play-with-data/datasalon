@@ -33,6 +33,19 @@
 
 ### `수정사항`
 
+- 2022.10.03
+    - `추가 안내사항` : 크롤링 진행시 chromedriver.exe 파일을 매번 다운받기 귀찮으신 분들은 자동으로 버전 관리를 해주는 라이브러리 활용하시면 편하게 이용 가능합니다.  [링크](https://blog.naver.com/kiddwannabe/222355619596)를 참고하세요  ( #chromedriver_autoinstaller )
+
+
+- 2022.10.02
+    - 크롤링 selenium 명령어 변경에 따른 코드 변경[참고](https://blog.naver.com/kiddwannabe/222559420797)
+        - 변경전 : find_elements_by_css_selector('태그정보')
+        - `변경후` : find_elements( 'css selector',  '태그정보' )
+    - 인스타그램 사이트 개편에 따른 크롤링 코드 변경
+    - tqdm 상태진행바 명령어 변경에 따른 코드 변경
+        - 변경전 : from tqdm import tqdm_notebook
+        - `변경후` : from tqdm.notebook import tqdm
+
 - 2022.05.19
     - 다나와 크롤링&데이터 전처리 수정
     - 수정부분 : 7-2 크롤링 부분, 7-3 데이터 전처리 부분
